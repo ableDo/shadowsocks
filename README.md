@@ -19,12 +19,19 @@
 - [macOS 下 ClashX 使用教程](zh_CN/v2ray/clashx-macos-setup-guide.md)
 - [Android 下 V2rayNG 使用教程](zh_CN/v2ray/v2ray-android-v2rayNG.md)
 
-## 4. 浏览器设置教程
+## 4. Trojan (Lite 服务) 客户端设置教程
+- [Trojan 服务自助更换](https://portal.shadowsocks.nl/knowledgebase/152/)
+- [Shadowsocks Portal Trojan 服务设置教程索引(Android / iOS)](https://portal.shadowsocks.nl/knowledgebase/151/)  
+- [Windows 下 Trojan-QT5 使用教程](https://portal.shadowsocks.nl/knowledgebase/161/)  
+- [macOS 下 Trojan-QT5 使用教程](https://portal.shadowsocks.nl/knowledgebase/162/)  
+- [Linux 下 Trojan 命令行使用教程](https://portal.shadowsocks.nl/knowledgebase/160/)  
+
+## 5. 浏览器设置教程
 
 - [Chrome 设置教程 (Proxy SwitchyOmega) ](zh_CN/browser/chrome-setup-guide.md)
 - [Firefox Quantum 设置教程 (Proxy SwitchyOmega)](zh_CN/browser/firefox-setup-guide.md)
 
-## 5. 其他
+## 6. 其他
 - [Proxifier 设置教程](zh_CN/proxifier-settings.md)  
 - [设置自定义 DNS 服务器](zh_CN/dns-setup-guide.md)  
 
