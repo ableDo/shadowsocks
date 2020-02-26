@@ -13,27 +13,27 @@
 
 
 ## 版本区别
-||[入门版](https://portal.shadowsocks.nl/cart.php?a=add&pid=33)|[高级版](https://portal.shadowsocks.nl/cart.php?a=add&pid=36)|[旗舰版](https://portal.shadowsocks.nl/cart.php?a=add&pid=34)|[IPv6 版本](https://portal.shadowsocks.nl/cart.php?a=add&pid=17)|[企业版](https://portal.shadowsocks.nl/cart.php?a=add&pid=9)|  
+||[**Trojan Lite**](https://portal.shadowsocks.nl/cart.php?a=confproduct&i=1)|[入门版](https://portal.shadowsocks.nl/cart.php?a=confproduct&i=4)|[高级版](https://portal.shadowsocks.nl/cart.php?a=confproduct&i=3)|[旗舰版](https://portal.shadowsocks.nl/cart.php?a=confproduct&i=2)|[企业版](https://portal.shadowsocks.nl/shadowsocks-enterprise)|  
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|价格（年付）|19.95 澳元|79.95 澳元|99.95澳元|19.95澳元|2999.95 / 4999.95澳元|
-|价格（月付）|×|×|12.95澳元|×|299.95 / 499.95澳元|
-|服务器数量¹|14|17|23|10|定制|
-|普通线路|√|√|√|√||
-|高级线路||√|√|||
-|中转/专线线路||1条|√|||
-|在线设备数量|1|5|5|5|无限制|
-|流量配额/月²|60GB|100GB|100GB|60GB|无限制|
-|备注|适合只偶尔<br />使用的用户|适合使用较频繁且有多<br />个设备同时使用的用户|适合对速度需<br />求较高的用户|**需网络支持IPv6**|**中港专线(5-10Mbps)<br />可以定制带宽**|
-|订购链接|[立即购买](https://portal.shadowsocks.nl/cart.php?a=add&pid=33)|[立即购买](https://portal.shadowsocks.nl/cart.php?a=add&pid=34)|[立即购买](https://portal.shadowsocks.nl/cart.php?a=add&pid=36)|[立即购买](https://portal.shadowsocks.nl/cart.php?a=add&pid=17)|[立即购买](https://portal.shadowsocks.nl/cart.php?a=add&pid=9)|
+|协议|**Trojan**|Shadowsocks|Shadowsocks|Shadowsocks|定制|
+|价格（年付）|19.95 澳元|19.95 澳元|79.95 澳元|99.95澳元|2999.95 / 4999.95澳元|
+|价格（月付）|×|×|×|12.95 澳元|299.95 / 499.95澳元|
+|服务器数量|**40+**|10+|15+|20+|定制线路|
+|普通线路|√|√|√|√|定制服务器|
+|高级线路|||√|√||
+|中转/专线线路|||1|√||
+|在线设备数量|**2**|1|**5**|**5**|无限制|
+|IPv6节点|√||||定制|
+|流量配额/月¹|**100GB+**|60GB+|100GB+|100GB+|无限制|
+|备注|**一般情况<br />推荐购买该版本**|适合只偶尔<br />使用的用户|适合使用较频繁且有多<br />个设备同时使用的用户|适合对速度需<br />求较高的用户|**中港专线(5-10Mbps)<br />可以定制带宽**|
+|订购链接|[立即购买](https://portal.shadowsocks.nl/cart.php?a=confproduct&i=1)|[立即购买](https://portal.shadowsocks.nl/cart.php?a=confproduct&i=4)|[立即购买](https://portal.shadowsocks.nl/cart.php?a=confproduct&i=3)|[立即购买](https://portal.shadowsocks.nl/cart.php?a=confproduct&i=2)|[立即购买](https://portal.shadowsocks.nl/shadowsocks-enterprise)| 
 
-注1：我们可能会根据情况调整线路，节点总数量可能会有 1-2 的差别  
-注2：根据使用的节点的统计倍率 (0.01-2.0) 的不同，可以使用的流量入门版最多可以为 6000GB ，高级版/旗舰版为 10000GB  
-注3：IPv6 Only 版本需要网络支持 IPv6 环境才可以使用
+注1：统计流量 = 实际使用流量 x 节点倍率，所以根据使用的节点的统计倍率 (0.01-2.0) 的不同，可以使用的流量入门版最多可以为 6000GB ，Trojan Lite/高级版/旗舰版为 10000GB
 
 ## 注册与购买
 
 * 如果没有本站的账号，购买过程中将自动创建账户。
-* 打开 [https://shadowsocks.at/](https://shadowsocks.at/)并点击 [Order Now](https://portal.shadowsocks.nl/link.php?id=5)，即可查看我们的产品列表。  
+* 打开 [https://shadowsocks.nl/](https://shadowsocks.nl/)并点击 [Order Now](https://portal.shadowsocks.nl/link.php?id=5)，即可查看我们的产品列表。  
 ![产品列表](../assets/images/int-product-list.png)
 
 * 选择想要购买的服务后点击对应的 **立即订购** ，进入订单概观, 我们以旗舰版为例，选择付款周期后点击继续加入购物车   
@@ -109,7 +109,14 @@
 
 ![点击 "二维码" 图标，显示二维码。 ](../assets/images/int-portal-qrcode.png)
 
-## 使用教程  
+## 使用教程
+**Trojan:**
+- [Trojan 服务自助更换](https://portal.shadowsocks.nl/knowledgebase/152/)
+- [Shadowsocks Portal Trojan 服务设置教程索引(Android / iOS)](https://portal.shadowsocks.nl/knowledgebase/151/)  
+- [Windows 下 Trojan-QT5 使用教程](https://portal.shadowsocks.nl/knowledgebase/161/)  
+- [macOS 下 Trojan-QT5 使用教程](https://portal.shadowsocks.nl/knowledgebase/162/)  
+- [Linux 下 Trojan 命令行使用教程](https://portal.shadowsocks.nl/knowledgebase/160/)  
+
 **Shadowsocks:**  
 - [Windows 下安装配置 Shadowsocks 使用教程](../zh_CN/shadowsocks/windows-setup-guide.md)  
 - [macOS 下安装配置 Shadowsocks 使用教程](../zh_CN/shadowsocks/macos-setup-guide.md)  
