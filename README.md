@@ -4,7 +4,14 @@
 
 [客户中心的介绍，包括购买服务、查看节点信息等内容](zh_CN/introduction-of-client-portal.md)
 
-## 2. Shadowsocks 客户端设置教程
+## 2. Trojan (Lite 服务) 客户端设置教程
+- [Trojan 服务自助更换](https://portal.shadowsocks.nl/knowledgebase/152/)
+- [Shadowsocks Portal Trojan 服务设置教程索引(Android / iOS)](https://portal.shadowsocks.nl/knowledgebase/151/)  
+- [Windows 下 Trojan-QT5 使用教程](https://portal.shadowsocks.nl/knowledgebase/161/)  
+- [macOS 下 Trojan-QT5 使用教程](https://portal.shadowsocks.nl/knowledgebase/162/)  
+- [Linux 下 Trojan 命令行使用教程](https://portal.shadowsocks.nl/knowledgebase/160/)  
+
+## 3. Shadowsocks 客户端设置教程
 
 - [Windows 下安装配置 Shadowsocks 使用教程](zh_CN/shadowsocks/windows-setup-guide.md)  
 - [macOS 下安装配置 Shadowsocks 使用教程](zh_CN/shadowsocks/macos-setup-guide.md)  
@@ -12,19 +19,13 @@
 - [Android 下安装配置 Shadowsocks 使用教程](zh_CN/shadowsocks/android-setup-guide.md)
 - [Linux 下安装配置 Shadowsocks 使用教程](zh_CN/shadowsocks/linux-setup-guide.md)
 
-## 3. V2ray(Vmess) 客户端设置教程
+## 4. V2ray(Vmess) 客户端设置教程
 
 - [Windows 下 Clash for Windows 使用教程](zh_CN/v2ray/clash-for-windows-setup-guide.md)
 - [Windows 下 V2rayN 使用教程](zh_CN/v2ray/v2ray-win-v2rayN.md)
 - [macOS 下 ClashX 使用教程](zh_CN/v2ray/clashx-macos-setup-guide.md)
 - [Android 下 V2rayNG 使用教程](zh_CN/v2ray/v2ray-android-v2rayNG.md)
 
-## 4. Trojan (Lite 服务) 客户端设置教程
-- [Trojan 服务自助更换](https://portal.shadowsocks.nl/knowledgebase/152/)
-- [Shadowsocks Portal Trojan 服务设置教程索引(Android / iOS)](https://portal.shadowsocks.nl/knowledgebase/151/)  
-- [Windows 下 Trojan-QT5 使用教程](https://portal.shadowsocks.nl/knowledgebase/161/)  
-- [macOS 下 Trojan-QT5 使用教程](https://portal.shadowsocks.nl/knowledgebase/162/)  
-- [Linux 下 Trojan 命令行使用教程](https://portal.shadowsocks.nl/knowledgebase/160/)  
 
 ## 5. 浏览器设置教程
 
